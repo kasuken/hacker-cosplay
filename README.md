@@ -1,11 +1,7 @@
 # hacker-cosplay
 
 ## Overview
-The "hacker-cosplay" project is a .NET 10 console application that utilizes the Spectre.Console library to create rich and interactive console applications.
-
-## Prerequisites
-- .NET 10 SDK installed on your machine.
-- A code editor or IDE of your choice (e.g., Visual Studio Code).
+An ironic .NET console application that emulates those dramatic "hacker screens" you see in movies. Perfect for impressing friends, entertaining people on the train, or just having fun pretending to be a Hollywood hacker. Built with Spectre.Console for maximum visual effect.
 
 ## Getting Started
 

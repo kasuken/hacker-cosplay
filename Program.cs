@@ -125,7 +125,7 @@ class Program
             await Task.Delay(Random.Next(10, 50), cancellationToken);
         }
 
-        AnsiConsole.MarkupLine($" [{GetRandomColor()}][OK][/]");
+        AnsiConsole.MarkupLine($" [{GetRandomColor()}][[OK]][/]");
     }
 
     static async Task DisplayHexDump(CancellationToken cancellationToken)
@@ -148,7 +148,6 @@ class Program
     static async Task DisplayProgressBar(CancellationToken cancellationToken)
     {
         string term = TechTerms[Random.Next(TechTerms.Length)];
-        AnsiConsole.Markup($"[yellow]Processing {term}[/] ");
 
         int width = Random.Next(15, 30);
         for (int i = 0; i <= width; i++)
@@ -157,7 +156,7 @@ class Program
 
             int percent = (int)((double)i / width * 100);
             string bar = new string('█', i) + new string('░', width - i);
-            Console.Write($"\r[yellow]Processing {term}[/] [{bar}] {percent}%");
+            AnsiConsole.Markup($"\r[yellow]Processing {term}[/] [[{bar}]] {percent}%");
             await Task.Delay(Random.Next(20, 80), cancellationToken);
         }
 
@@ -177,7 +176,8 @@ class Program
             {
                 char ch = (char)Random.Next(33, 127);
                 string color = Random.Next(3) == 0 ? "bold green" : "green";
-                AnsiConsole.Markup($"[{color}]{ch}[/]");
+                string escaped = ch == '[' ? "[[" : ch == ']' ? "]]" : ch.ToString();
+                AnsiConsole.Markup($"[{color}]{escaped}[/]");
             }
 
             AnsiConsole.WriteLine();

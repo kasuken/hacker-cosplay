@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("hacker-cosplay")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f3e7885af56097de38e6ce8f4b582a69701b9d6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+990066928eb2b9a329e2cf48c7b41c4e0907d748")]
 [assembly: System.Reflection.AssemblyProductAttribute("hacker-cosplay")]
 [assembly: System.Reflection.AssemblyTitleAttribute("hacker-cosplay")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
