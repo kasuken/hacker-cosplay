@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vM519vtR4HA=",
+  "success": true,
+  "projectFilePath": "C:\\_GITHUB_\\hacker-cosplay\\hacker-cosplay.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\barto\\.nuget\\packages\\spectre.console\\0.54.0\\spectre.console.0.54.0.nupkg.sha512"
+  ],
+  "logs": []
+}

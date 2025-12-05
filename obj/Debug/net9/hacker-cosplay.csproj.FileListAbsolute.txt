@@ -1,0 +1,17 @@
+C:\_GITHUB_\hacker-cosplay\bin\Debug\net9\hacker-cosplay.exe
+C:\_GITHUB_\hacker-cosplay\bin\Debug\net9\hacker-cosplay.deps.json
+C:\_GITHUB_\hacker-cosplay\bin\Debug\net9\hacker-cosplay.runtimeconfig.json
+C:\_GITHUB_\hacker-cosplay\bin\Debug\net9\hacker-cosplay.dll
+C:\_GITHUB_\hacker-cosplay\bin\Debug\net9\hacker-cosplay.pdb
+C:\_GITHUB_\hacker-cosplay\bin\Debug\net9\Spectre.Console.dll
+C:\_GITHUB_\hacker-cosplay\obj\Debug\net9\hacker-cosplay.csproj.AssemblyReference.cache
+C:\_GITHUB_\hacker-cosplay\obj\Debug\net9\hacker-cosplay.GeneratedMSBuildEditorConfig.editorconfig
+C:\_GITHUB_\hacker-cosplay\obj\Debug\net9\hacker-cosplay.AssemblyInfoInputs.cache
+C:\_GITHUB_\hacker-cosplay\obj\Debug\net9\hacker-cosplay.AssemblyInfo.cs
+C:\_GITHUB_\hacker-cosplay\obj\Debug\net9\hacker-cosplay.csproj.CoreCompileInputs.cache
+C:\_GITHUB_\hacker-cosplay\obj\Debug\net9\hacker-c.1F98199B.Up2Date
+C:\_GITHUB_\hacker-cosplay\obj\Debug\net9\hacker-cosplay.dll
+C:\_GITHUB_\hacker-cosplay\obj\Debug\net9\refint\hacker-cosplay.dll
+C:\_GITHUB_\hacker-cosplay\obj\Debug\net9\hacker-cosplay.pdb
+C:\_GITHUB_\hacker-cosplay\obj\Debug\net9\hacker-cosplay.genruntimeconfig.cache
+C:\_GITHUB_\hacker-cosplay\obj\Debug\net9\ref\hacker-cosplay.dll
