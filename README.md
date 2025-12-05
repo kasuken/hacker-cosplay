@@ -1,5 +1,7 @@
 # hacker-cosplay
 
+![e380e6dc-4032-4e7e-a20f-33c208421e4a](https://github.com/user-attachments/assets/f7038a22-110d-4709-9ab5-f48953bf15a7)
+
 ## Overview
 An ironic .NET console application that emulates those dramatic "hacker screens" you see in movies. Perfect for impressing friends, entertaining people on the train, or just having fun pretending to be a Hollywood hacker. Built with Spectre.Console for maximum visual effect.
 
