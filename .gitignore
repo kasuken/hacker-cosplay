@@ -52,3 +52,7 @@ OpenCover/
 
 # Test Results
 TestResults/
+
+# Git worktrees
+/.git/worktrees/
+*.worktrees/
